@@ -2,8 +2,8 @@
 *Files to look at*:
 
 * [CustomAppointmentForm.ascx](./CS/WebSite/CustomSchedulerForms/CustomAppointmentForm.ascx) (VB: [CustomAppointmentForm.ascx](./VB/WebSite/CustomSchedulerForms/CustomAppointmentForm.ascx))
-* [CustomAppointmentForm.ascx.cs](./CS/WebSite/CustomSchedulerForms/CustomAppointmentForm.ascx.cs) (VB: [CustomAppointmentForm.ascx](./VB/WebSite/CustomSchedulerForms/CustomAppointmentForm.ascx))
-* [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
+* [CustomAppointmentForm.ascx.cs](./CS/WebSite/CustomSchedulerForms/CustomAppointmentForm.ascx.cs) (VB: [CustomAppointmentForm.ascx.vb](./VB/WebSite/CustomSchedulerForms/CustomAppointmentForm.ascx.vb))
+* [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # How to embed ASPxGridView into a custom appointment form for resources selection
